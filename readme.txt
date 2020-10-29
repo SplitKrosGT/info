@@ -17,14 +17,3 @@ git pull
 git config --global user.email "ваш емайл"
 git config --global user.name "ваше Имя"
 домашнее задание выполнил
-
-<!DOCTYPE html>
-<html>
-<head>
-	<style type="text/css"></style>
-	<title></title>
-</head>
-<body>
-    <div></div>
-</body>
-</html>
